@@ -2,7 +2,7 @@ Virtual Library: Collaborative Pomodoro & Social Accountability
 A real-time, multiplayer deep-work environment designed to combat remote-work isolation through shared responsibility.
 
 Live Production Environment
-Launch Virtual Library
+https://virtual-library-g4dt.vercel.app/
 
 Technical Overview
 Virtual Library is a full-stack web application that introduces a "Social Contract" to the Pomodoro technique. By linking multiple users to a shared session, the application creates a collective stake: if any participant loses focus (defined by tab visibility or window closure), the session terminates for the entire group.
