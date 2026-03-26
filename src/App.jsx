@@ -20,7 +20,7 @@ import {
   addDoc,
   setDoc,
 } from 'firebase/firestore';
-import Login from '.Login.jsx';
+import Login from './login';
 import { QRCodeCanvas } from 'qrcode.react';
 
 function App() {
